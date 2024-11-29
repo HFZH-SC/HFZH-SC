@@ -1,5 +1,7 @@
 <p align="center">
     <img src="https://twelvemen.neocities.org/2/tv.webp" width="200" alt="TV static">
+</p>
+<p align="center">
  <img src="https://komarev.com/ghpvc/?username=HFZH-SC&style=flat-square&color=blue" alt="My github profile"/>
 </p>
 
