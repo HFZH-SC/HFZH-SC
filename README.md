@@ -1,6 +1,6 @@
 <div>
     <div class="container">
-        <div class="transform" , alight="center">
+        <div class="transform"  alight="center">
             <a href="h0me">
                 <img src="https://twelvemen.neocities.org/2/tv.webp" width="400px" alt="TV static">
             </a>
