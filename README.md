@@ -100,7 +100,8 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
   </a>
   <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/sqlite-%
+    <img src="https://img.shields.io/badge/sqlite-% alt="SQL LITE"/>
+
 # 📊 GitHub Stats:
 <div id="header" align="center">
   <div id="header">
