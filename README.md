@@ -1,10 +1,28 @@
-<center>
-		<div class="transform">
-		  <a href="h0me">
-		    <img src="images/Desk-2024_Viktor_Tibay3.gif">
-		  </a>
-		</div>
-
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dokumen</title>
+    <style>
+        .container {
+            text-align: center; /* Memusatkan konten di dalam kontainer */
+        }
+        .transform {
+            display: inline-block; /* Agar div tidak memenuhi lebar penuh */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="transform">
+            <a href="h0me">
+                <img src="https://bedr00mz.neocities.org/images/Desk-2024_Viktor_Tibay3.gif" alt="Deskripsi Gambar">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
 
 
 # 💫 HELLO ITS ME HAFIZH SALAM KENAL💫:
