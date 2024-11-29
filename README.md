@@ -4,13 +4,13 @@
 
 
 
-# 💫Hey Its Me HFZH:
+# Hi there, I'm HAFIZH 👋:
 
 
 ---
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -30,7 +30,7 @@
 </p>
 
 # 📊 GitHub Stats:
-<div id="header" align="center">
+<div id="header" align="left">
   <div id="header">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
