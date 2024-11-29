@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dokumen</title>
-   
-<body>
+
     <div class="container">
         <div class="transform">
             <a href="h0me">
@@ -13,8 +6,7 @@
             </a>
         </div>
     </div>
-</body>
-</html>
+
 
 
 # 💫 HELLO ITS ME HAFIZH SALAM KENAL💫:
