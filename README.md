@@ -4,15 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dokumen</title>
-    <style>
-        .container {
-            text-align: center; /* Memusatkan konten di dalam kontainer */
-        }
-        .transform {
-            display: inline-block; /* Agar div tidak memenuhi lebar penuh */
-        }
-    </style>
-</head>
+   
 <body>
     <div class="container">
         <div class="transform">
