@@ -12,11 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
+ 
   <div id="badges">
-    <a href="![](https://github-readme-stats.vercel.app/api?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HFZH-SC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)">
+    <a href="(https://github-readme-stats.vercel.app/api?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=HFZH-SC&theme=dark&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)">
      
   </div>
   <img src="https://komarev.com/ghpvc/?username=FariandiRamadhan&style=flat-square&color=blue" alt="My github profile"/>
