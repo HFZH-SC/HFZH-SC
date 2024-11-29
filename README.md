@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @HFZH<br>- 👀 I’m interested in Programming<br>- 🌱 I’m currently learning JS<br>- 📫 How to reach me hafizhengine@gmail.com<br>- 😄 Pronouns: ME<br>- ⚡ Fun fact: everyday im struggling.
 
-![](https://github-readme-stats.vercel.app/api?username=HFZH-SC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ---
 
 # 💻 Tech Stack:
