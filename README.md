@@ -2,9 +2,9 @@
     <div class="container">
         <div class="transform">
             <a href="h0me">
-                <img src="https://bedr00mz.neocities.org/images/Desk-2024_Viktor_Tibay3.gif" alt="Deskripsi Gambar">
+                <img src="https://twelvemen.neocities.org/2/tv.webp" width="400px" alt="TV static">
             </a>
-        </div>
+          </div>
     </div>
 
 
